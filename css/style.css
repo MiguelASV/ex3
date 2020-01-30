@@ -23,3 +23,11 @@ main {
 footer {
     border: 4px solid green;
 }
+
+ul {
+    display:  inline-block;
+}
+
+nav {
+    border: 5px solid black;
+}
